@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+button{
+  width: 100px;
+  height: 40px;
+}
+
+#plus{
+  margin-right: 10px;
+  font-size: x-large;
+  background-color: green;
+}
+#minus{
+  margin-right: 10px;
+  font-size: x-large;
+  background-color: red;
+}
+
+#reset{
+  background-color: yellow;
+  font-size: x-large;
+}
+
+
+
+
+
+
